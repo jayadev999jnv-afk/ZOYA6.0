@@ -1,0 +1,6 @@
+{
+  "name": "Zoya",
+  "description": "Zoya is a real-time, background-running voice assistant with a distinct sassy and witty female persona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
